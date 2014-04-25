@@ -1,0 +1,10 @@
+javascripts:
+  app:
+    - source/javascripts/vendor/jquery.js
+    # - source/javascripts/app/**/*.js
+
+  modernizr:
+    - source/javascripts/vendor/custom.modernizr.js
+
+compress_assets: off
+gzip_assets: off
